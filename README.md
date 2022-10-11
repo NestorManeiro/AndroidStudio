@@ -2,18 +2,18 @@
 Tareas realizadas para la asignatura de PWM:
 <h2><A HREF="https://developer.android.com/courses/kotlin-android-fundamentals/toc"> Codelabs </A>:</h2>
 
-   Hello World: 
+Hello World: 
    
     https://github.com/NestorManeiro/HelloWorld
 
-   DiceRoller: 
+DiceRoller: 
    
     https://github.com/NestorManeiro/DiceRoller
 
-   DiceRollerV2:
+DiceRollerV2:
    
     https://github.com/NestorManeiro/DiceRollerV2
 
-   AboutMe: 
+AboutMe: 
    
     https://github.com/NestorManeiro/AboutMe
