@@ -18,6 +18,10 @@ AboutMe:
    
     https://github.com/NestorManeiro/AboutMe
 
-AoutMeInteractive:
+AbutMeInteractive:
 
     https://github.com/NestorManeiro/AboutMeInteractive
+
+ColorMyViews:
+
+    https://github.com/NestorManeiro/ColorMyViews
