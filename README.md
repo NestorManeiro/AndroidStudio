@@ -18,6 +18,6 @@ AboutMe:
    
     https://github.com/NestorManeiro/AboutMe
 
-ABoutMeInteractive:
+AoutMeInteractive:
 
     https://github.com/NestorManeiro/AboutMeInteractive
