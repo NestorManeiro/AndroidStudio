@@ -33,3 +33,7 @@ AboutMe-Binding:
 3: Android Trivia 1
    
     https://github.com/NestorManeiro/AndroidTrivia-Starter
+
+Login con Firebase y Registro
+
+    https://www.youtube.com/watch?v=dpURgJ4HkMk
