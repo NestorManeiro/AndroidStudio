@@ -11,6 +11,9 @@ Login con Firebase y Registro
  
     https://square.github.io/picasso/
 
+Subir datos a Firebase:
+
+    https://firebase.google.com/docs/firestore/manage-data/add-data#kotlin+ktx
 
 <h2><A HREF="https://developer.android.com/courses/kotlin-android-fundamentals/toc"> Codelabs </A>:</h2>
 
