@@ -37,3 +37,7 @@ AboutMe-Binding:
 Login con Firebase y Registro
 
     https://www.youtube.com/watch?v=dpURgJ4HkMk
+    
+ Añadir imagenes de enlaces:
+ 
+    https://square.github.io/picasso/
